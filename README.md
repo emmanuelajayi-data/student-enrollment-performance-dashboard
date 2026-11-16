@@ -11,7 +11,7 @@ This dashboard provides institutional stakeholders and educators with clear, act
 - **Average Score:** 79.08
 
 ## 🔍 Key Features & Visualizations
-- **Program Breakdown:** Visualizes student distribution across Computer Science, Information Technology, and Business Administration[cite: 9] using a clear pie chart and categorical breakdown.
+- **Program Breakdown:** Visualizes student distribution across Computer Science, Information Technology, and Business Administration using a clear pie chart and categorical breakdown.
 - **Enrollment Analysis:** Bar chart tracking total enrollments grouped by specific course names.
 - **Performance Tracking:** Comparative bar chart displaying average scores per course name.
 - **Interactive Filtering:** Slicers allowing dynamic filtering by academic program.
